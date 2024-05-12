@@ -29,3 +29,6 @@ All customizable:
 
 ## Technologies Used:
 -Unreal Engine 5.2.1
+
+
+This game was created by [Emanuele Pardini](http://emanuelepardini.altervista.org/). Enjoy!
