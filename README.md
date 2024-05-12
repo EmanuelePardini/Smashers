@@ -24,7 +24,7 @@ All customizable:
 
 ## Demonstration:
 
- [Homemade Trailer](https://www.youtube.com/watch?v=kqqsrD_bwwg)
+ [Homemade Trailer](https://www.youtube.com/watch?v=kqqsrD_bwwg)   |
  [Demo Gameplay](https://www.youtube.com/watch?v=vWEafvIHZP4&t=180s)
 
 ## Technologies Used:
