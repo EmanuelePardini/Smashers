@@ -1,4 +1,5 @@
 # Smashers
+![Smashers ico](Smashers.png)
 
 ## Description:
 The code for a Fighting Game made in Unreal Engine 5.2.1 for The Rookies Awards 2024
