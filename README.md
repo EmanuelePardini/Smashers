@@ -9,6 +9,7 @@ All customizable:
 
 - Character Roster and Selection SubSystem
 - Map Roster and Selection SubSystem
+- Gamemode Roster and Selection Subsystem
 - Fighting System
 - Local Multiplayer
 - Save Data SubSystem
