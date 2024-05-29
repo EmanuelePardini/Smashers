@@ -27,7 +27,7 @@ All customizable:
 ## Demonstration:
 
  [Homemade Trailer](https://www.youtube.com/watch?v=kqqsrD_bwwg)   |
- [Demo Gameplay](https://www.youtube.com/watch?v=vWEafvIHZP4&t=180s)
+ [Demo Gameplay](https://youtu.be/k9NGu7PUEW0)
 
 ## Technologies Used:
 -Unreal Engine 5.2.1
