@@ -29,6 +29,9 @@ All customizable:
  [Homemade Trailer](https://www.youtube.com/watch?v=kqqsrD_bwwg)   |
  [Demo Gameplay](https://youtu.be/k9NGu7PUEW0)
 
+ ## Download:
+ [Itch.io](https://cyborg3000.itch.io/smashers)
+ 
 ## Technologies Used:
 -Unreal Engine 5.2.1
 
